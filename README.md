@@ -29,6 +29,8 @@ columns:
 Grow Data Skills
 ➔ price - FLOAT
 ➔ last_updated - TIMESTAMP
+<img width="639" alt="image" src="https://github.com/user-attachments/assets/33d6e98b-cd6b-4e6c-88fc-651b7675e796">
+
 
 # Step 2: Kafka Producer
 ● Write a Kafka producer in Python that uses a MySQL connector to
